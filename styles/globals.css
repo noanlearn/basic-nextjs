@@ -20,3 +20,7 @@ a {
   height: 100%;
 }
 
+.title-not-found {
+  text-align: center;
+  color: darkgray;
+}
